@@ -251,13 +251,6 @@ It is highly applicable in industries like:
 
 ---
 
-## 👨‍💻 Author
-
-**FZ**
-Master’s in Data Science
-
----
-
 ## ⭐ Acknowledgements
 
 * Kaggle for dataset
